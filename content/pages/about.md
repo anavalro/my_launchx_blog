@@ -1,21 +1,20 @@
 ---
-title: 'About me'
+title: 'Sobre mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mí"
 ---
 
-## Who am I
+## Who?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, Soy Ana Luisa Vallejo Romero 👩‍🚀🚀
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Make the impossible, possible.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**🌟** Soy estudiante de Ingeniería Aeronáutica en el Instituto Tecnológico Superior de Irapuato y trabajo en el Programa Espacial Universitario de la UNAM como investigadora, como podrás notar soy fan de todos los temas spaciales, también organizo la Semana Mundial del Espacio en Guanajuato y algunas otras actividades interesantes.
 
+Nací en Valle de Santiago, Guanajuato 🤠 pero hace muy poco me mudé a la ciudad de mis sueños la CDMX.
+
+Mis dos cosas favoritas en el planeta son estudiar e ir a conciertos y me dedico a ambas cosas de tiempo completo, por ahora estoy aprendiendo a ser BackEnd developer y coordino un concurso a nivel hispanoamérica de robótica espacial.
+
+No podría existir sin música, puedes ver todas mis playlist en spotify (👉 https://open.spotify.com/user/12140513521?si=98521eba64634de3).
