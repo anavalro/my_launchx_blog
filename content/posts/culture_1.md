@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
-date: 2022-07-04
-description: 'La cultura de un Desarrolladora de software'
+title: "La cultura de una Desarrolladora de software"
+date: 2022-04-11
+description: 'Antes de arrancar hablemos sobre algo importante'
 ---
 
 Hola de nuevo ✌
